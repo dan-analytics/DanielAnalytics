@@ -1,60 +1,60 @@
 # SaaS KPI SQL Analysis
 
-Welcome! I'm Daniel, a data analyst specializing in SaaS metrics and business impact. This project explores a simulated SaaS billing dataset using SQL to extract actionable insights across Revenue Operations, Billing, Pricing, and Customer Analytics.
+Hey there — I'm Daniel, a data analyst who loves turning SaaS billing data into real business insight. This project dives into a simulated SaaS dataset using SQL to surface key metrics that help teams understand revenue, retention, and customer health.
 
-## 🔍 Project Overview
+## 🔍 What This Project Covers
 
-This repository contains SQL queries designed to surface key performance indicators (KPIs) that SaaS businesses rely on to monitor growth, retention, and revenue health. Each query is annotated with business context to demonstrate how technical logic translates into strategic insight.
+I wrote a series of SQL queries to explore the kinds of KPIs that SaaS companies track every day. Each query includes comments explaining the logic and why it matters from a business perspective — because good analysis isn’t just technical, it’s strategic.
 
-## 📊 KPIs Explored
+## 📊 KPIs Included
 
-- **Monthly Recurring Revenue (MRR)**: Tracks predictable revenue growth
-- **Annual Recurring Revenue (ARR)**: Scales MRR to annualized view
-- **Churn Rate**: Identifies customer loss trends
-- **Retention Rate**: Measures customer loyalty and product stickiness
-- **Failed Payment Rate**: Flags billing friction and risk
-- **Top Customers by Usage**: Highlights high-value accounts
-- **Long-Term Inactive Subscriptions**: Surfaces dormant revenue
-- **Monthly Revenue Trends**: Reveals seasonality and growth patterns
-- **Repeat Payment Failures**: Detects systemic billing issues
+- **Monthly Recurring Revenue (MRR)** – Predictable revenue growth
+- **Annual Recurring Revenue (ARR)** – Scaled view of MRR
+- **Churn Rate** – Who’s leaving and when
+- **Retention Rate** – Who’s sticking around
+- **Failed Payment Rate** – Billing issues that impact cash flow
+- **Top Customers by Usage** – High-value accounts worth watching
+- **Long-Term Inactive Subscriptions** – Dormant revenue opportunities
+- **Monthly Revenue Trends** – Seasonality and growth patterns
+- **Repeat Payment Failures** – Systemic billing friction
 
-## 🧠 Business Impact
+## 💡 Why It Matters
 
 These metrics help SaaS teams:
-- Forecast revenue and cash flow
-- Identify churn risks and retention opportunities
-- Optimize billing operations and reduce payment failures
-- Prioritize customer success and account management
+- Forecast revenue and spot churn early
+- Improve billing operations and reduce payment failures
+- Focus on customer success and retention
+- Make smarter decisions with clearer data
 
-## 🛠️ Tools Used
+## 🛠️ Tools I Used
 
 - PostgreSQL (local setup)
 - SQL (with business insight comments)
 - Git & GitHub for version control
 - Power BI & Tableau (dashboards coming soon)
 
-## 📁 Repository Contents
+## 📁 What’s in This Repo
 
 | File | Description |
 |------|-------------|
-| `saas_kpi_analysis.sql` | SQL queries with business insight annotations |
-| `README.md` | Project overview and strategic context |
+| `saas_kpi_analysis.sql` | SQL queries with comments explaining business impact |
+| `README.md` | This overview of the project and what it’s all about |
 
-## 🚀 Next Steps
+## 🚀 What’s Next
 
-- Build interactive dashboards in Power BI and Tableau
-- Upload `.pbix` and `.twbx` files to visualize KPIs
-- Add case studies and visual walkthroughs
-- Expand to cohort analysis and pricing segmentation
+- Build dashboards in Power BI and Tableau to visualize these KPIs
+- Upload `.pbix` and `.twbx` files
+- Add case studies and walkthroughs
+- Explore cohort analysis and pricing segmentation
 
-## 💼 About Me
+## 👋 About Me
 
-I'm focused on turning raw data into business strategy. My portfolio showcases real-world SaaS scenarios, emphasizing clarity, impact, and interview readiness.
+I'm a data analyst with a strong focus on SaaS metrics — but my skills go beyond one industry. I’ve worked with SQL and data visualization tools to uncover insights in pricing strategy, customer behavior, marketing performance, and product usage. Whether it’s a subscription business or a consumer-facing platform, I bring clarity to complex data and help teams make smarter decisions.
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com)  
-🌐 Explore more projects at [dan-analytics](https://github.com/dan-analytics)
+My portfolio is built around real-world scenarios, clear storytelling, and business impact. If you're hiring for analytics — in SaaS, pricing, marketing, or product strategy — I’d love to connect.
+
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/danieltapiah/)  
+🌐 [Check out more projects on GitHub](https://github.com/dan-analytics)
 
 ---
 
-# DanielAnalytics
-SQL analysis of SaaS KPIs — MRR, churn, retention, and more
