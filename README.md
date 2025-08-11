@@ -49,9 +49,9 @@ These metrics help SaaS teams:
 
 ## 👋 About Me
 
-I'm a data analyst with a strong focus on SaaS metrics — but my skills go beyond one industry. I’ve worked with SQL and data visualization tools to uncover insights in pricing strategy, customer behavior, marketing performance, and product usage. Whether it’s a subscription business or a consumer-facing platform, I bring clarity to complex data and help teams make smarter decisions.
+With a background in SaaS and fintech finance, I specialize in turning operational data into strategic insights. I’ve worked across billing, AP/AR, pricing, and revenue using Excel, NetSuite, Oracle, and SAP to streamline workflows and reporting.
 
-My portfolio is built around real-world scenarios, clear storytelling, and business impact. If you're hiring for analytics — in SaaS, pricing, marketing, or product strategy — I’d love to connect.
+Now I use SQL, Power BI, and Tableau to build dashboards that drive decisions. I’m targeting data-driven roles in analytics, Revenue Ops, and finance strategy — where business context meets actionable insight.
 
 📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/danieltapiah/)  
 🌐 [Check out more projects on GitHub](https://github.com/dan-analytics)
