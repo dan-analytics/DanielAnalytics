@@ -5,6 +5,7 @@ Hey there — I'm Daniel, a data analyst who loves turning SaaS billing data int
 ## 🔍 What This Project Covers
 
 I wrote a series of SQL queries to explore the kinds of KPIs that SaaS companies track every day. Each query includes comments explaining the logic and why it matters from a business perspective — because good analysis isn’t just technical, it’s strategic.
+[View the SQL file](https://github.com/dan-analytics/DanielAnalytics/blob/main/saas_kpi_analysis.sql)
 
 ## 📊 KPIs Included
 
