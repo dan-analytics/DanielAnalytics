@@ -59,14 +59,14 @@ ORDER BY billing_period;
 -- Business Insight: Monitors billing system reliability and potential revenue leakage.
 -- Use Case: Flags technical issues or customer friction in the payment process.
 SELECT billing_period,
-       COUNT(*) FILTER (WHERE payment_status = 'Failed') * 1.0 /
+       COUNT(*) FILTER (WHERE payment_status = 'Failed') * 100.0 /
        COUNT(*) AS failed_payment_rate
 FROM billing_data
 GROUP BY billing_period
 ORDER BY billing_period;
 
 /* KPI 7: Top Customers by Usage */
--- Business Insight: Identifies high-value users for upsell, feedback, or case studies.
+-- Business Insight: Identifies high-value users for upsell, or feedback.
 -- Use Case: Supports customer success, marketing, and account management strategies.
 SELECT order_id, SUM(usage_amount) AS total_usage
 FROM billing_data
